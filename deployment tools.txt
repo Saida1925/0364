@@ -1,0 +1,15 @@
+deployment tools:-
+
+i) fire-base
+ii)netlify
+iii)git & git-hub
+iv)git-lab
+v)bit-bucket
+
+GIT-HUB:-
+-->used to store data and manages data
+-->cloud
+
+GIT:-
+-->used to track code in the git-hub
+-->version controller
